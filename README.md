@@ -23,3 +23,5 @@ js quiz
 <img width="821" height="693" alt="image" src="https://github.com/user-attachments/assets/4e63b1d8-3593-493d-ba37-53ec512e5230" />
 
 
+chavi jaiswal
+#2501410011
